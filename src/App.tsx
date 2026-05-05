@@ -15,7 +15,7 @@ import {
   Settings
 } from 'lucide-react';
 
-const WHATSAPP_NUMBER = "5519997589468";
+const WHATSAPP_NUMBER = "5519987025550";
 const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}?text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20para%20o%20meu%20carro.`;
 
 const fadeInUp = {
@@ -410,7 +410,7 @@ export default function App() {
               <ul className="space-y-4 text-sm">
                 <li>
                   <a href={WHATSAPP_LINK} className="flex items-center gap-2 hover:text-brand-green transition-colors">
-                    <Phone className="w-4 h-4" /> (19) 99758-9468
+                    <Phone className="w-4 h-4" /> (19) 98702-5550
                   </a>
                 </li>
                 <li className="flex items-center gap-2">
